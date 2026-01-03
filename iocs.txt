@@ -1,0 +1,10 @@
+# Domains
+publichillcoweb.com
+dng-microsoftds.com
+event-time-microsoft.org
+eventdata-microsoft.live
+
+# Behavior
+Repeated HTTP POST beaconing
+Randomized URI paths
+Cloudflare-hosted C2 infrastructure
